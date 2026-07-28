@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shubh030307/LeetCode-Problems/tree/master/0022-generate-parentheses) |
+| [0125-valid-palindrome](https://github.com/shubh030307/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -21,4 +22,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shubh030307/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/shubh030307/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
