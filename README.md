@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shubh030307/LeetCode-Problems/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/shubh030307/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/shubh030307/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shubh030307/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/shubh030307/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/shubh030307/LeetCode-Problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Two Pointers
 |  |
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/shubh030307/LeetCode-Problems/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/shubh030307/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
