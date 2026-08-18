@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/shubh030307/LeetCode-Problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0509-fibonacci-number](https://github.com/shubh030307/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shubh030307/LeetCode-Problems/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/shubh030307/LeetCode-Problems/tree/master/0024-swap-nodes-in-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
